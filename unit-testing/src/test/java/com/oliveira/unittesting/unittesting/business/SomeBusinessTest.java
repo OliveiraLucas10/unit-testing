@@ -4,8 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.oliveira.unittesting.unittesting.business.SomeBusinessImpl;
-
 public class SomeBusinessTest {
 
 	@Test
