@@ -5,8 +5,6 @@ import com.oliveira.unittesting.unittesting.data.SomeDataService;
 public class SomeBusinessImpl {
 
 	SomeDataService someDataService;
-	
-	
 
 	public void setSomeDataService(SomeDataService someDataService) {
 		this.someDataService = someDataService;
