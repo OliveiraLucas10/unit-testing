@@ -1,4 +1,4 @@
-package com.oliveira.unittesting.unittesting.bisiness;
+package com.oliveira.unittesting.unittesting.business;
 
 import static org.junit.Assert.assertEquals;
 
